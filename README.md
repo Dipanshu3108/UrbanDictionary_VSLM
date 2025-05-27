@@ -132,7 +132,7 @@ Generating new definitions for words using the trained model with controlled sam
 | **Top-P** | 0.95 nucleus | Selects from the smallest set of tokens whose cumulative probability exceeds 0.95 |
 | **Max Length** | 100 tokens | - |
 
-### EXPECT Example Outputs 
+### EXPECTED Example Outputs 
 
 | Input | Output |
 |-------|--------|
