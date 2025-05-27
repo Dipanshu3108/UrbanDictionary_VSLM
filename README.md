@@ -103,9 +103,9 @@ Training the model on processed data with optimization and validation.
 - **15%** Test Data
 
 **Training Results:**
-- Training Progress: ![85%](https://progress-bar.dev/85)
-- Validation Progress: ![78%](https://progress-bar.dev/78)
-- Test Progress: ![92%](https://progress-bar.dev/92)
+- Training Progress: ![85%]
+- Validation Progress: ![78%]
+- Test Progress: ![92%]
 
 ## 📈 Model Evaluation
 
